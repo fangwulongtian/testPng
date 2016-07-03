@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DragView2.h
 //  testPng
 //
 //  Created by 方武显 on 16/7/2.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DragView2 : UIImageView
 
 @end
-

@@ -6,14 +6,14 @@
 //  Copyright © 2016年 小五哥学Swift. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "Demo1Controller.h"
 #import "DragView.h"
 
-@interface ViewController ()
+@interface Demo1Controller ()
 
 @end
 
-@implementation ViewController
+@implementation Demo1Controller
 
 - (void)viewDidLoad {
     [super viewDidLoad];
